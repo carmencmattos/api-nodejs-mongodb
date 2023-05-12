@@ -1,3 +1,6 @@
-# API Rest em NodeJs com Express e MongoDB
+# Alura Livros! 📚
 
-Projeto realizado em curso da Alura para o desenvolvimento de uma aplicação no modelo de arquitetura REST, utilizando o framework Express do NodeJS e o banco de dados MongoDB.
+Projeto realizado em curso da Alura para o desenvolvimento de uma aplicação em **NodeJS** no modelo de arquitetura REST, utilizando o framework **Express**.
+
+Para gerenciar o banco de dados utilizei o **MongoDB Atlas**.
+
